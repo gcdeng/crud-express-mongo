@@ -3,8 +3,8 @@
 http://zellwk.com/blog/crud-express-mongodb/
 
 ###installation
-npm install
+1. `npm install`
 
 ###Usage
-npm run dev
-open http://localhost:3000/
+1. `npm run dev`
+2. open `http://localhost:3000/`
